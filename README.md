@@ -1,4 +1,4 @@
-# hobby__history-sim
+# History Simulator
 History Simulation with warring empires
 
 This is an old hobby project. Originally created in July 2019. It is a small GUI application where one
@@ -10,7 +10,7 @@ battle each other. The simulation features
 
 Uploaded in 2023 and checked to work with Python 3.11. No code changes made. 
 
-The simulation freeze somewhere around the year 1000, so there is probably some bug or a memory leak.
+The simulation freezes somewhere around the year 1000, so there is probably some bug or a memory leak.
 
 ## Running
 - Install the requirements
