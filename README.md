@@ -14,6 +14,6 @@ The simulation freezes somewhere around the year 1000, so there is probably some
 
 ## Running
 - Install the requirements
-- Run the file ``main.py``pip
+- Run the file ``main.py``
 
 ![Example](example.gif)
